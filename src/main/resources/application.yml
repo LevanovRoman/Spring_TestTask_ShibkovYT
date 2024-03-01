@@ -1,0 +1,4 @@
+app:
+  host: http://pastebox.sentel.ru
+  public_list_size: 10
+
